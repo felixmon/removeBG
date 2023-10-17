@@ -1,3 +1,5 @@
+# designed to remove the watermark (red marks) of the pa email
+
 import cv2
 import numpy as np
 
